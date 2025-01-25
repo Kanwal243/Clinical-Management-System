@@ -17,4 +17,4 @@
     - Laravel ( Clinical Management System) ..
     - React ( Website ) ..
 
-<img width="1197" alt="mysql" src="https://github.com/user-attachments/assets/217dc2e6-eea1-401a-923c-f95baf727e12" />
+<img width="883" alt="mysql" src="https://github.com/user-attachments/assets/d54df141-08b2-46b9-9f08-f64dea600af4" />
